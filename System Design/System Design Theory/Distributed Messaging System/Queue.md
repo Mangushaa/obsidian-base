@@ -1,0 +1,1 @@
+In queuing model messages are published to queue and persisted there until consumer not read them, as soon as cunsumer reads message from queue it is removed. So such model is not good for cases when few diffirent consumers should read the message.

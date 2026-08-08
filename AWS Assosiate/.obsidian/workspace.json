@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8ab432a3ad85b5fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6fe868ae678002d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97671cf078cc5cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certified Study Guide/Chapter 4. AWS Database Services/Review Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Review Questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb52326f3223f75f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b25031345aaa78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106762c9bc52ecfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2404d60267da068",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "33940aa2ba69a076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "942c8f2b1adb885e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c9c9cb320a420b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4903fd4325e4df2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bc634f377cc9065b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4ae327941b752805",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9fe1b194c5ab2f0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "550f5b8b636a22d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "106762c9bc52ecfc",
+  "lastOpenFiles": [
+    "Certified Study Guide/Chapter 5. Encryption on AWS",
+    "Certified Study Guide/Chapter 4. AWS Database Services/Cloud Database Migration.md",
+    "Certified Study Guide/Chapter 4. AWS Database Services/Review Questions.md",
+    "Pasted image 20260714194524.png",
+    "Certified Study Guide/Chapter 4. AWS Database Services/In-Memory Data Store.md",
+    "Pasted image 20260808142421.png",
+    "Certified Study Guide/Chapter 4. AWS Database Services/Nonrelational Databases.md",
+    "Pasted image 20260804021122.png",
+    "Pasted image 20260804010450.png",
+    "Pasted image 20260803193221.png",
+    "Certified Study Guide/Chapter 4. AWS Database Services/AWS Database Services.md",
+    "Pasted image 20260730011119.png",
+    "Pasted image 20260729015054.png",
+    "Pasted image 20260729011539.png",
+    "Pasted image 20260728141620.png",
+    "Pasted image 20260728141606.png",
+    "Certified Study Guide/Chapter 3. AWS Data Storage/AWS Data Storage.md",
+    "Certified Study Guide/Chapter 4. AWS Database Services",
+    "Certified Study Guide/Chapter 3. AWS Data Storage/Untitled",
+    "Certified Study Guide/Chapter 3. AWS Data Storage/Review Questions.md",
+    "Certified Study Guide/Chapter 2. Introduction to Compute and Networking/Review Questions.md",
+    "Certified Study Guide/Chapter 3. AWS Data Storage",
+    "Certified Study Guide/Chapter 2. Introduction to Compute and Networking/Introduction to Compute and Networking.md",
+    "Certified Study Guide/Chapter 2. Introduction to Compute and Networking/Untitled",
+    "Certified Study Guide/Chapter 1. Introduction To AWS/Review Questions.md",
+    "Certified Study Guide/Chapter 1. Introduction To AWS/Introduction to AWS.md",
+    "Certified Study Guide/Chapter 2. Introduction to Compute and Networking",
+    "Certified Study Guide/Chapter 1. Introduction To AWS",
+    "Certified Study Guide",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "87bb25bb4c18e311",
+    "type": "split",
+    "children": [
+      {
+        "id": "585cf04f586699c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db5dff2b4fc8291",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649077f60938b400",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c55a6bb335315e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedc1b5bcd07b2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d2c73fa04356a1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff2c35362020a5c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65e5485b63983d36",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6899970c8dfdddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec8f1316d24ba5d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SystemDesign/Caching/Caching.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Caching"
+            }
+          },
+          {
+            "id": "0d319e8c3460159c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SystemDesign/Caching/Caching.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Caching"
+            }
+          },
+          {
+            "id": "3345de7387be4ecb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2a19b9edc1f0132",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d85bc55c4281fa5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SystemDesign/Caching/Caching.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Caching"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0db5dff2b4fc8291",
+  "lastOpenFiles": [
+    "System Design Theory/Bloom Filter/Resizing bloom filter array.md",
+    "Pasted image 20260520152512.png",
+    "System Design Problems/Instagram.md",
+    "Pasted image 20260610233845.png",
+    "System Design Problems/Problems.md",
+    "System Design Problems/Shortening Service like TinyURL.md",
+    "System Design Problems/Pastebin.md",
+    "Interview/Presenting Tradeoffs.md",
+    "System Design Problems",
+    "Interview/Back-of-the-Envelope (rough) Estimations.md",
+    "Interview/Interview process.md",
+    "System Design Theory/System Design.md",
+    "System Design Theory/Similar Approaches Distinction/Similar Approaches Distinction.md",
+    "System Design Theory/DNS/DNS Servers.md",
+    "Interview",
+    "System Design Theory/DNS/DNS.md",
+    "System Design Theory/DNS/DNS Resolver.md",
+    "System Design Theory/DNS/DNS Load Balancing and High Availability.md",
+    "System Design Theory/Checksum/Checksum.md",
+    "System Design Theory/CDN/CDN.md",
+    "System Design Theory/CAP & PACELC/CAP & PACELC.md",
+    "System Design Theory/Distributed File System/Distributed File System.md",
+    "System Design Theory/Similar Approaches Distinction",
+    "System Design Theory/Distributed Messaging System/Distributed Messaging System.md",
+    "System Design Theory/Distributed File System",
+    "System Design Theory/Distributed Messaging System/Messaging Patterns.md",
+    "System Design Theory/Distributed Messaging System/Queue.md",
+    "System Design Theory/Distributed Messaging System/Publisher-subscriber.md",
+    "System Design Theory/Distributed Messaging System",
+    "System Design Theory/Security/Security.md",
+    "System Design Theory/Security",
+    "System Design Theory/Leader And Follower/Leader And Follower.md",
+    "System Design Theory/Leader And Follower",
+    "System Design Theory/Checksum",
+    "System Design Theory/Heartbeat/Heartbit.md",
+    "System Design Theory/Heartbeat",
+    "System Design Theory/Quorum/Quorum.md",
+    "System Design Theory/Quorum",
+    "Untitled.canvas"
+  ]
+}

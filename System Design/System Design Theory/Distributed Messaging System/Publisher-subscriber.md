@@ -1,0 +1,1 @@
+In pub-sub model messages are published to topic and is persisted even after consumer reads it, so in this case few difirrent consumers can read a message. This provides durability and fault tolarance so messages are not lost between produsing and consuming.
