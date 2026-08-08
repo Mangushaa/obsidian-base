@@ -1,0 +1,92 @@
+
+## Agentic System Loop
+
+Goal -> Choose Tool -> Execute Tool -> Observe Results -> Iterate
+
+
+## Four pillars of agency
+
+**Perception** - gather information from surroundings and internal state
+
+**Selection** - reason about options select next action
+
+**Execution** - execute selected actions, if needed uses API, tools, etc
+
+**Iteration** - learn outcomes, and repeat until termination condition is reached(goal reached,  defined limits is reached, or error should be escalated).
+
+Perception -> Selection  -> Execution -> Iteration
+
+## Patterns
+
+**Tool Use** - LLM call external tools and use results in reasoning
+
+**Prompt Chaining** - break complex task into sequence of smaller LLM calls each tep building on the last
+
+## Tool Use
+
+**Tool Definition** - it's schema that defines name of the tool, description, parameter spec. Model reads definition to decide if it's need tool to achieve goal.
+
+**Tool Call** - it's structured output model emits when want to use tool. It's tool name + JSON argument that runtime will execute.
+
+**Observations** - result returned from tool is injected into context so the model can plan next step.
+
+## Common tool categories 
+
+**Data Access** - read files, query db, fetch web content, retrieve doc from knowledge base
+
+**Computation** - execute code, run calculations, parse data.
+
+**External APIs** call external api (send message, create calendar event, etc)
+
+## Runtime Concepts
+
+**Tool Result Injection** - formatting tool's output as a context message 
+
+**Parallel Tool Calls** - model emits multiple tool-call, then runtime executes it in parallel that's reduce latance
+
+**Tool call loop** - iterative tool call until goal is reached
+
+## Four-Phase Agentic Loop
+
+**Perception** (gather information) -> **Reasoning** (selects an action) -> **Action** (generates observation) -> **Observation** (returns to context)
+
+**Perception** - model scans full context window: instructions, history, tool results. And based on that decides current state: what is done, what needs to be done, what is unknown, etc
+
+**Reasoning:**  Decides what to do next: tool execution, refining previous actions, outputs, etc.
+
+**Action**/Observation: is actual doing smth, call tool to gain new info, info is back as observation and injected into context that is used in next perception.
+
+## Context Windows as Working Memory
+
+It holds all user inputs (prompts, files, etc), all actions (tool call), observation results from tool call, some intermediate reasoning. 
+
+## Loop Control - Stop, Iterate, Escalate
+
+**Termination Condition** - an explicit rule that stops the loop: tasl done, error threshold hit, stop signal
+
+**Turn Budget** - a hard cap on loop iterations (how many loops can be done).
+
+**Escalation** - a controlled handoff to a human, or fallback when agent can't safely proceed.
+
+## Four Termination Conditions
+
+- Task complete
+- Error Threshold - too many errors, so agent decide to stop then continue errors loop.
+- Budget exhausted - turn limit or token budget reached.
+- Stop Signal - orchestrator or user explicitly instruct agent to stop immidiatly
+
+## Infinite loop risks
+
+- Missing stop condition - agent never decide to stop
+- Always failing tools - a broken api call retried endlessly
+- Circular reasoning - the model revisit same decision flow without new information
+
+
+## Workflow
+
+**Workflow core patterns**: 
+- Prompt chaining - sequential LLM calls when next call consume output from prev one.
+- Routing - kind of if/else where condition can be evaluated by LLM for example
+- Paralelization - multiple parallel LLM calls and results and blocked result collecting
+- Orchestrator-Subagent - task is splitted into subtask and forwarded to specialized workers (subagents)
+- Evaluator-Optimizer - one call generate result another evaluates it, looping until quality level are met.
