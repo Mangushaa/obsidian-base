@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy Cource/D1/Agentic Architecture Foundations.md",
+                "file": "Simple Projects Base/Simple MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentic Architecture Foundations"
+              "title": "Simple MCP"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.6171875
   },
   "right": {
     "id": "ffaf56264fab4bf2",
@@ -187,10 +187,36 @@
   },
   "active": "cbb06e04e134f4a5",
   "lastOpenFiles": [
-    "Udemy Cource/D1/Task Decomposition & Planning.md",
-    "Udemy Cource/D1/Agentic Architecture Foundations.md",
+    "Udemy Cource/D2 Tool Design & MCP/3. MCP Production & Built-in Tools.md",
+    "Simple Projects Base/Simple MCP.md",
+    "Simple Projects Base",
+    "Udemy Cource/D2 Tool Design & MCP/2. Building MCP Servers.md",
+    "Udemy Cource/D2 Tool Design & MCP/1. Tool Design Fundamentals.md",
+    "Udemy Cource/D1 Agentic Architecture/4. Reliability & Human Oversight.md",
+    "Udemy Cource/D1 Agentic Architecture/3. Multi Agent Orchestration.md",
+    "Udemy Cource/D1 Agentic Architecture/2. Task Decomposition & Planning.md",
+    "Udemy Cource/D1 Agentic Architecture/1. Foundations.md",
+    "Udemy Cource/D5 Context Management/2. Multi-Agent Failure Mode.md",
+    "Udemy Cource/D5 Context Management/3. Cross Session Knowledge & Coherence.md",
+    "Udemy Cource/D5 Context Management/1. The Context Window.md",
+    "Udemy Cource/D5 Context Management/4. Confidence, Sampling & Provenance.md",
+    "Udemy Cource/D4 Prompt Engineering/3. Structured Output & Evaluation.md",
+    "Udemy Cource/D4 Prompt Engineering/2. Advanced Prompt Techiques.md",
+    "Udemy Cource/D5 Context Management",
+    "Udemy Cource/D4 Prompt Engineering/1. Writing Effective Prompts.md",
+    "Udemy Cource/D3 Claude Code/4. Claude Code - Hooks, SDK, CI-CD.md",
+    "Udemy Cource/D4 Prompt Engineering",
+    "Udemy Cource/D4 Prompt Engineering.md",
+    "Udemy Cource/D3 Claude Code/3. Slash Commands, Skills & Subagents & Hooks.md",
+    "Practice.md",
+    "Agentic Architecture & Orchestration.md",
+    "Udemy Cource/D3 Claude Code/2. CLAUDE.md Configuration.md",
+    "Udemy Cource/D3 Claude Code/1. Architecture and Setup.md",
+    "Udemy Cource/D3 Claude Code",
+    "Udemy Cource/D2 Tool Design & MCP",
+    "Udemy Cource/D1/Multi Agent Orchestration 1.md",
     "Udemy Cource/Glossary.md",
-    "Udemy Cource/D1",
+    "Udemy Cource/D1 Agentic Architecture",
     "Welcome.md",
     "Udemy Cource"
   ]
