@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt & Context Engineering.md",
+                "file": "Python Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt & Context Engineering"
+              "title": "Python Language"
             }
           }
         ]
@@ -190,15 +190,15 @@
   },
   "active": "e41dd067b5d9ac9d",
   "lastOpenFiles": [
+    "Retrieval & Grounding.md",
+    "Prompt & Context Engineering.md",
     "Multimodal Integration.md",
     "Min Requirement Grades.md",
     "LLM API Patterns & Structured Output.md",
     "AI Engineering Competency Matrix.md",
     "Agent & Workflow Orchestration.md",
-    "Retrieval & Grounding.md",
     "Changelog.md",
     "Structured Outputs & Function Calling.md",
-    "Python Language.md",
-    "Prompt & Context Engineering.md"
+    "Python Language.md"
   ]
 }

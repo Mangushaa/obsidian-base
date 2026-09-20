@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Running tasks in containers.md",
+                "file": "3. Time-based scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Running tasks in containers"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0a0fccb250b147d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9dd22133e517324",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "3. Time-based scheduling"
             }
           }
         ]
@@ -204,18 +188,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "576131f4ce19ab50",
+  "active": "09f7cf27c41922ea",
   "lastOpenFiles": [
-    "10. Testing.md",
+    "2. Anataomy of an Airflow DAG.md",
+    "Pasted image 20260904005221.png",
+    "1. Meet Apache Airflow.md",
+    "Pasted image 20260903003109.png",
+    "Pasted image 20260903003108.png",
+    "Pasted image 20260902023056.png",
+    "Pet project.md",
     "11. Running tasks in containers.md",
+    "10. Testing.md",
     "9. Extending Airflow with custom operators and sensors.md",
     "8. Communicating with external systems.md",
     "7. Triggering workflows with external input.md",
     "6. Defining dependencies between tasks.md",
     "5. Templating tasks using Airflow context.md",
     "4. Asset-aware scheduling.md",
-    "3. Time-based scheduling.md",
-    "2. Anataomy of an Airflow DAG.md",
-    "1. Meet Apache Airflow.md"
+    "3. Time-based scheduling.md"
   ]
 }

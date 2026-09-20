@@ -11,10 +11,14 @@
             "id": "0db5dff2b4fc8291",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "System Design Theory/Caching/Caching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caching"
             }
           }
         ]
@@ -183,6 +187,24 @@
   },
   "active": "0db5dff2b4fc8291",
   "lastOpenFiles": [
+    "System Design Theory/Caching/Caching Challenges.md",
+    "System Design Theory/CDN/CDN.md",
+    "System Design Theory/Caching/Caching.md",
+    "Pasted image 20260912165042.png",
+    "Pasted image 20260912165041.png",
+    "Pasted image 20260912165039.png",
+    "System Design Theory/Databased (SQL vs NoSQL)/Databases (SQL vs NoSQL).md",
+    "Pasted image 20260912154240.png",
+    "Pasted image 20260912154229.png",
+    "System Design Theory/Distributed File System/Distributed File System.md",
+    "System Design Theory/Distributed Messaging System/Queue.md",
+    "System Design Theory/Distributed Messaging System/Distributed Messaging System.md",
+    "System Design Theory/Distributed Messaging System/Publisher-subscriber.md",
+    "System Design Theory/Distributed Messaging System/Messaging Patterns.md",
+    "AI System Design/ML Systems.md",
+    "AI System Design/General.md",
+    "Pasted image 20260909233258.png",
+    "AI System Design",
     "System Design Theory/Bloom Filter/Resizing bloom filter array.md",
     "Pasted image 20260520152512.png",
     "System Design Problems/Instagram.md",
@@ -202,25 +224,13 @@
     "System Design Theory/DNS/DNS Resolver.md",
     "System Design Theory/DNS/DNS Load Balancing and High Availability.md",
     "System Design Theory/Checksum/Checksum.md",
-    "System Design Theory/CDN/CDN.md",
-    "System Design Theory/CAP & PACELC/CAP & PACELC.md",
-    "System Design Theory/Distributed File System/Distributed File System.md",
     "System Design Theory/Similar Approaches Distinction",
-    "System Design Theory/Distributed Messaging System/Distributed Messaging System.md",
     "System Design Theory/Distributed File System",
-    "System Design Theory/Distributed Messaging System/Messaging Patterns.md",
-    "System Design Theory/Distributed Messaging System/Queue.md",
-    "System Design Theory/Distributed Messaging System/Publisher-subscriber.md",
     "System Design Theory/Distributed Messaging System",
-    "System Design Theory/Security/Security.md",
     "System Design Theory/Security",
-    "System Design Theory/Leader And Follower/Leader And Follower.md",
     "System Design Theory/Leader And Follower",
     "System Design Theory/Checksum",
-    "System Design Theory/Heartbeat/Heartbit.md",
     "System Design Theory/Heartbeat",
-    "System Design Theory/Quorum/Quorum.md",
-    "System Design Theory/Quorum",
     "Untitled.canvas"
   ]
 }

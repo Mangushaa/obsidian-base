@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICF And Accepted Chargebacks.md",
+                "file": "JSM Migration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICF And Accepted Chargebacks"
+              "title": "JSM Migration"
             }
           }
         ]
@@ -190,7 +190,12 @@
   },
   "active": "0e0e4b7bdad766c8",
   "lastOpenFiles": [
-    "Debit&Credit logic.md",
-    "ICF And Accepted Chargebacks.md"
+    "csCitDAO.js",
+    "Money Order CIT Issue.md",
+    "JSM Migration.md",
+    "Generate fee report prompt.md",
+    "Generate Dispute report prompt.md",
+    "ICF And Accepted Chargebacks.md",
+    "Debit&Credit logic.md"
   ]
 }
