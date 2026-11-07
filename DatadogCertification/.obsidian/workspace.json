@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log Management Fundamentals/Log Explorer.md",
+                "file": "Log Management Fundamentals/9. Enhance Log Querying and Analytics with Reference Tables, Subqueries, and Calculated Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log Explorer"
+              "title": "9. Enhance Log Querying and Analytics with Reference Tables, Subqueries, and Calculated Fields"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
@@ -179,25 +179,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
     }
   },
-  "active": "c2aecd4bf104e395",
+  "active": "3fd80ccfb748903d",
   "lastOpenFiles": [
+    "Log Management Fundamentals/8. Dive Depper into Log Queries and Aggregations.md",
+    "Log Management Fundamentals/9. Enhance Log Querying and Analytics with Reference Tables, Subqueries, and Calculated Fields.md",
+    "Log Management Fundamentals/7. Manage and Monitor Indexed Log Volumes.md",
+    "Log Management Fundamentals/Double Check Labs.md",
+    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema 1.pdf",
+    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema.pdf",
+    "Log Management Fundamentals/6. Advanced Log Configuration.md",
+    "Log Management Fundamentals/5. Build and Manage Log Pipelines.md",
+    "Log Management Fundamentals/4. Process Logs Out of the Box with Integration Pipelines.md",
+    "Pasted image 20261011002145.png",
+    "Log Management Fundamentals/3. Configure Log Collection for a Containerized Application.md",
+    "Pasted image 20261010153649.png",
+    "Log Management Fundamentals/2. The Agent on a Host.md",
+    "Log Management Fundamentals/1. Log Explorer.md",
+    "Pasted image 20261010024929.png",
+    "Pasted image 20261010024751.png",
+    "Pasted image 20261010015732.png",
+    "Pasted image 20261010013041.png",
     "Pasted image 20261004023912.png",
     "Pasted image 20261004021703.png",
     "Pasted image 20261004021345.png",
     "Pasted image 20261004021316.png",
-    "Pasted image 20261004021157.png",
-    "Log Management Fundamentals/Log Explorer.md",
-    "Pasted image 20261004015340.png",
-    "Pasted image 20261004015314.png",
     "Welcome.md",
     "APM & Distributed Tracing Fundamentals",
     "Log Management Fundamentals"

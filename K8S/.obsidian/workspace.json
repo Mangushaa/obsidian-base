@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "12. Integrating Storage Solutions and Kubernates/Integrating Storage Solutions and Kubernates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c7837f91a5a0f3b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6c09258c2ece73a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Integrating Storage Solutions and Kubernates"
             }
           }
         ]
@@ -62,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
@@ -195,17 +179,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
     }
   },
   "active": "20dba7a695df411a",
   "lastOpenFiles": [
+    "11. Service Mashes/Service Mashes.md",
+    "12. Integrating Storage Solutions and Kubernates/Integrating Storage Solutions and Kubernates.md",
+    "12. Integrating Storage Solutions and Kubernates",
+    "Not Clear Things.md",
+    "11. Service Mashes",
+    "10. Role-Based Access Control for Kubernates/RBAC.md",
+    "9. ConfigMaps and Secrets/Config Maps And Secrets.md",
+    "10. Role-Based Access Control for Kubernates",
+    "8. Jobs/Jobs.md",
+    "9. ConfigMaps and Secrets",
+    "Pasted image 20261002001341.png",
+    "Pasted image 20260930015205.png",
+    "7. Deamon Sets/Deamon Sets.md",
+    "8. Jobs",
+    "6. Deployments/Deployments.md",
+    "7. Deamon Sets",
+    "5. Replica Sets/Replica Set.md",
+    "6. Deployments",
+    "Pasted image 20260920204803.png",
+    "4. HTTP Load Balancing with Ingress/HTTP Load Balancing with Ingress.md",
+    "5. Replica Sets",
+    "Pasted image 20260924020335.png",
+    "3. Service Discovery/Service Discovery.md",
+    "4. HTTP Load Balancing with Ingress",
+    "2. Labesls and Annotations/Labels & Annotations.md",
+    "3. Service Discovery/Без назви",
+    "1. Pod/Pods.md",
+    "Pasted image 20260920221036.png",
+    "Pasted image 20260920211457.png",
+    "Pasted image 20260920205333.png",
     "Welcome.md"
   ]
 }
