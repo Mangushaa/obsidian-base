@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log Management Fundamentals/Introduction to Cloud SIEM.md",
+                "file": "Log Management Fundamentals/Official Docs/1. Log Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Cloud SIEM"
+              "title": "1. Log Management"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
@@ -179,44 +179,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
     }
   },
-  "active": "3fd80ccfb748903d",
+  "active": "c2aecd4bf104e395",
   "lastOpenFiles": [
-    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema.pdf",
-    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema 1.pdf",
-    "Pasted image 20261011002145.png",
-    "Pasted image 20261010153649.png",
-    "Pasted image 20261010024929.png",
-    "Pasted image 20261010024751.png",
-    "Pasted image 20261010015732.png",
-    "Pasted image 20261010013041.png",
-    "Log Management Fundamentals/Double Check Labs.md",
-    "Log Management Fundamentals/9. Enhance Log Querying and Analytics with Reference Tables, Subqueries, and Calculated Fields.md",
-    "Log Management Fundamentals/8. Dive Depper into Log Queries and Aggregations.md",
-    "Log Management Fundamentals/7. Manage and Monitor Indexed Log Volumes.md",
-    "Log Management Fundamentals/6. Advanced Log Configuration.md",
-    "Log Management Fundamentals/5. Build and Manage Log Pipelines.md",
-    "Log Management Fundamentals/4. Process Logs Out of the Box with Integration Pipelines.md",
-    "Log Management Fundamentals/3. Configure Log Collection for a Containerized Application.md",
-    "Log Management Fundamentals/2. The Agent on a Host.md",
-    "Log Management Fundamentals/1. Log Explorer.md",
-    "Log Management Fundamentals/Customize Alert Monitor Notifications.md",
-    "Log Management Fundamentals/Introduction to Cloud SIEM.md",
-    "Log Management Fundamentals/Introduction to Monitoring AWS.md",
-    "Log Management Fundamentals/Track Logs for Alerting and Investigations.md",
+    "Pasted image 20261109000316.png",
+    "Pasted image 20261109000213.png",
+    "Pasted image 20261109000112.png",
+    "Pasted image 20261108235821.png",
+    "Pasted image 20261108231131.png",
+    "Log Management Fundamentals/Official Course/10. Track Logs for Alerting and Investigations.md",
+    "Log Management Fundamentals/Official Course/9. Enhance Log Querying and Analytics with Reference Tables, Subqueries, and Calculated Fields.md",
+    "Log Management Fundamentals/Official Course/8. Dive Depper into Log Queries and Aggregations.md",
+    "Log Management Fundamentals/Official Course/6. Advanced Log Configuration.md",
+    "Log Management Fundamentals/Official Docs/1. Log Management.md",
+    "Pasted image 20261108034954.png",
+    "Pasted image 20261108033528.png",
+    "Pasted image 20261108033520.png",
+    "Pasted image 20261108031852.png",
+    "Pasted image 20261108013650.png",
+    "Log Management Fundamentals/Official Course/1. Log Explorer.md",
+    "Log Management Fundamentals/Official Docs",
+    "Log Management Fundamentals/Official Course",
+    "Log Management Fundamentals/Official Course/2. The Agent on a Host.md",
+    "Log Management Fundamentals/Official Course/13. Introduction to Cloud SIEM.md",
+    "Log Management Fundamentals/Official Course/12. Customize Alert Monitor Notifications.md",
     "Log Management Fundamentals/Pasted image 20261023010157.png",
-    "Pasted image 20261004015314.png",
-    "Pasted image 20261004021345.png",
-    "Log Management Fundamentals/Log Explorer.md",
-    "Pasted image 20261004023912.png",
+    "Log Management Fundamentals/Official Course/11. Introduction to Monitoring AWS.md",
+    "Log Management Fundamentals/Official Course/7. Manage and Monitor Indexed Log Volumes.md",
+    "Log Management Fundamentals/Official Course/Double Check Labs.md",
+    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema 1.pdf",
+    "SfKTFQwRQgAbY8qwTqTk_02-logsearchsyntax_labdataschema.pdf",
+    "Log Management Fundamentals/Official Course/5. Build and Manage Log Pipelines.md",
+    "Log Management Fundamentals/Official Course/4. Process Logs Out of the Box with Integration Pipelines.md",
+    "Log Management Fundamentals/Official Course/3. Configure Log Collection for a Containerized Application.md",
     "Welcome.md",
     "APM & Distributed Tracing Fundamentals",
     "Log Management Fundamentals"
